@@ -1,4 +1,4 @@
-import time
+from time import sleep
 
 start_time = time.time()
 
