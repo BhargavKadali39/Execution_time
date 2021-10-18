@@ -1,10 +1,10 @@
-from time import sleep
+import time
 
 start_time = time.time()
 
 # add your code here
 
-for i in the range(6):
+for i in range(6):
   print("*"*i)
 
 # code till here
