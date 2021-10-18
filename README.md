@@ -20,3 +20,5 @@ output for the given program
     ****
     *****
     Execution time is : 0.13704204559326172
+
+Time may vary device to device as the component used to built them have different processing rate.
